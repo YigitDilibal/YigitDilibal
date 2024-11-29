@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yigit Dilibal</h1>
 <h3 align="center">SDET in the future</h3>
 
-- 🌱 I’m currently learning **SDET in WiseQuarter**
+- 🔭 I’m currently working on Microsoft 365 **as Senior Technical Engineer**
+
+- 🌱 I’m currently learning **SDET at WiseQuarter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
